@@ -2,7 +2,7 @@
 
 # Robotic Process Automation Projects
 
-Welcome to our collection of Robotic Process Automation (RPA) projects! Below you'll find a brief description of each project along with its purpose.
+Welcome to our collection of Robotic Process Automation (RPA) projects! Below you'll find a brief description of each project 
 
 ## 1. Sales Order Validation
 
